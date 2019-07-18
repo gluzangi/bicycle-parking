@@ -1,7 +1,7 @@
 {
-  "name": "Bicycle-Parking",
+  "name": "Ontario-Townships",
   "version": "0.0.1",
-  "description": "Bicycle-Parking =============== Bicycle Parking Locations in the City of Chattanooga.",
+  "description": "Ontario Solar Mecca.",
   "scripts": {
     "test": "mocha -R spec",
     "to-csv": "node tasks/to-csv.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cityofchattanooga/Bicycle-Parking.git"
+    "url": "https://github.com/gluzangi/ontario-townships.git"
   },
-  "author": "City of Chattanooga",
+  "author": "Gerald Luzangi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cityofchattanooga/Bicycle-Parking/issues"
+    "url": "https://github.com/gluzangi/ontario-townships/issues"
   },
-  "homepage": "https://github.com/cityofchattanooga/Bicycle-Parking",
+  "homepage": "https://github.com/gluzangi/ontario-townships",
   "dependencies": {
     "csv-stringify": "0.0.3",
     "lodash": "^2.4.1"
